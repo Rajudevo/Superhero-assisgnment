@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Getting Started with My project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+project live link [C React Project](https://best-developers.netlify.app/).
 
-## Available Scripts
+## About My Project
 
-In the project directory, you can run:
+1. you can search best developers by name.
+2. Cart shows total price and name
+3. Ratings can help you to decide  
+
+
+
 
 ### `npm start`
 
