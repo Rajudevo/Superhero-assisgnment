@@ -1,0 +1,316 @@
+[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": -37.3159,
+          "lng": 81.1496
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "price": 102.88,
+      "img": "https://images.squarespace-cdn.com/content/v1/55550428e4b0d770e3f981ab/1571332564051-U0Y5J70B25S3PHHFSXSD/professional-headshots-39408.JPG",
+
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+       
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": -43.9509,
+          "lng": -34.4618
+          
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "price": 69.88,
+          "img": "https://www.katiethering.com/wp-content/uploads/2019/02/Minneapolis-Headshot-Photographer-034.jpg",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": -68.6102,
+          "lng": -47.0653
+          
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "price": 269.88,
+          "img": "https://headshots.thelightcommittee.com/wp-content/uploads/2020/01/executive-headshots.jpg",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": 29.4572,
+          "lng": -164.299
+         
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "price": 59.88,
+      "img": "https://i.pinimg.com/236x/61/bd/d8/61bdd8758f56df780cd5ad6540266372--professional-headshots-corporate-headshots.jpg",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": 33263,
+        "geo": {
+          "lat": -31.8129,
+          "lng": 62.5342
+          
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "price": 89.88,
+          "img": "https://hips.hearstapps.com/cos.h-cdn.co/assets/14/42/nrm_1413560859-455104516.jpg",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": -71.4197,
+          "lng": 71.7478
+          
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "price": 99.88,
+          "img": "http://images6.fanpop.com/image/polls/1444000/1444286_1419612687826_full.jpg?v=1419612709",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "geo": {
+          "lat": 24.8918,
+          "lng": 21.8984,
+          "zipcode": "58804-1099"
+          
+        }
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "price": 139.88,
+      "img": "https://media.istockphoto.com/photos/closeup-of-a-handsome-young-man-smiling-against-white-background-picture-id146836042?s=612x612",
+
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": 45169,
+        "geo": {
+          "lat": -14.399,
+          "lng": -120.7677
+          
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "price": 119.88,
+          "img": "https://images.generated.photos/SqguE0TYh1skxGpoalMXg-zK_WV3VzHvfudBQ8rpLwk/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NzIwNDc4LmpwZw.jpg",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": 24.6463,
+          "lng": -168.8889
+          
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "price": 199.88,
+          "img": "https://static8.depositphotos.com/1003410/850/i/950/depositphotos_8501485-stock-photo-portrait-of-young-man-close.jpg",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": -38.2386,
+          "lng": 57.2232
+          
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "price": 159.88,
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3VSqgs3vP0XT_7SX-YYHzRtKjly-AQWdCw&usqp=CAU",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Harpar kasper",
+      "username": "Moriah.Stanton",
+      "email": "kasper@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": -38.2386,
+          "lng": 57.2232
+          
+        }
+      },
+      "phone": "024-698-38047",
+      "website": "ambrose.net",
+      "price": 111.88,
+          "img": "https://qph.fs.quoracdn.net/main-qimg-1ee58dc8edcf8ed136d4d2d9c080a75d",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Shakira masha",
+      "username": "Moriah.Stanton",
+      "email": "shakira@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": -38.2386,
+          "lng": 57.2232
+          
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "price": 119.88,
+          "img": "https://data.ibtimes.sg/en/full/30323/kate-upton.jpg",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    }
+  ]

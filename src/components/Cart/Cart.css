@@ -1,0 +1,13 @@
+.cart-design{
+    border: 3px solid aquamarine;
+    height: 350px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.name-box{
+    border: 1px solid whitesmoke;
+    height: 100px;
+    width: 300px;
+    padding: 5px;
+}

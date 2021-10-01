@@ -1,0 +1,38 @@
+.person{
+    display: flex;
+    border: 3px solid whitesmoke;
+    border-radius: 15px;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+    padding-bottom: 5px;
+}
+
+/* .person img{
+    width: 250px;
+    height: 250px;
+} */
+
+.price{
+    font-size: 20px;
+    font-style: italic;
+    color: teal;
+    font-weight: 400;
+}
+
+.person-name{
+    color: blue;
+    font-weight: 400;
+}
+
+.btn-regular {
+    background-color: goldenrod;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+.icon-color{
+    color: gold;
+}
